@@ -115,6 +115,52 @@ Microsoft Windows 系统默认没有对 SSH 协议提供支持，因此需要用
 
 ![](putty-login.png)
 
+
+
+
+>#界面更友好的FinalShell
+支持SSH和win的远程连接
+支持监控主机情况
+支持智能补全
+当前文件目录
+比putty更容易使用
+
+>官网介绍：
+FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,还是功能强大的开发,运维工具,充分满足开发,运维需求.
+特色功能:
+免费海外服务器远程桌面加速,ssh加速,双边tcp加速,内网穿透.
+官网：http://www.hostbuf.com/
+下载地址：http://www.hostbuf.com/downloads/finalshell_install.exe
+主要特性:
+1.多平台支持Windows,Mac OS X,Linux
+2.多标签,批量服务器管理.
+3.支持登录Ssh和Windows远程桌面.
+4.漂亮的平滑字体显示,内置100多个配色方案.
+5.shell,sftp同屏显示,同步切换目录.
+6.命令自动提示,智能匹配,输入更快捷,方便.
+7.sftp支持,通过各种优化技术,加载更快,切换,打开目录无需等待.
+8.服务器网络,性能实时监控,无需安装服务器插件.
+9.内置海外服务器加速,加速远程桌面和ssh连接,操作流畅无卡顿.
+10.双边加速功能,大幅度提高访问服务器速度.
+11.内存,Cpu性能监控,Ping延迟丢包,Trace路由监控.
+12.实时硬盘监控.
+13.进程管理器.
+14.快捷命令面板,可同时显示数十个命令.
+15.内置文本编辑器,支持语法高亮,代码折叠,搜索,替换.
+16.ssh和远程桌面均支持代理服务器.
+17.打包传输,自动压缩解压.
+18.免费内网穿透,无需设置路由器,无需公网ip.
+![](http://www.hostbuf.com/upload/image/20170928/1506605329395082804.png)
+
+![](http://www.hostbuf.com/upload/image/20170117/1484635245728075336.png)
+![](http://www.hostbuf.com/upload/image/20170117/1484635173334071105.png)
+![](http://www.hostbuf.com/upload/image/20170117/1484635329540047793.png)
+![](http://www.hostbuf.com/upload/image/20171118/1511013349812005421.png)
+![](http://www.hostbuf.com/upload/image/20170222/1487738221746093924.png)
+![](http://www.hostbuf.com/upload/image/20170924/1506183003447079520.png)
+
+
+
 ## 用主机名访问 NAS 主机
 
 在安装系统时我们设置了主机名 `getnas` 和域名 `local`，并且强调要以 `getnas.local` 的域名形式在局域网中访问这台 NAS 主机。
